@@ -27,16 +27,12 @@ A third, unsupervised question is used for exploration:
 ## Dataset
 
 IBM HR Analytics Employee Attrition & Performance (fictional data created by IBM).  
-Loaded in the notebook from a public GitHub raw URL — **no Kaggle login required**.
+Loaded in the notebook from a public GitHub raw URL — .
 
 ## How to run
 
 Open `HR_Analytics_Complete_Project.ipynb` in [Google Colab](https://colab.research.google.com) and click **Runtime → Run all**.  
-Full beginner instructions: see `HOW_TO_RUN.md`.
 
-## Suggested resume bullet
-
-Built an end-to-end HR analytics ML pipeline (feature engineering, PCA/K-Means, 5 classifiers, 4 regressors) to predict employee attrition and estimate compensation; compared models with Precision/Recall/F1/ROC-AUC and analyzed bias–variance with learning curves and regularization.
 
 ## Tech
 
